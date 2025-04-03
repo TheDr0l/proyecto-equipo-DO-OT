@@ -1,2 +1,4 @@
 # proyecto-equipo-DO-OT
-Integrantes:
+Integrantes:<br>
+Dilan Osorio<br>
+Oscar Taborda
